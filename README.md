@@ -1,0 +1,2 @@
+# Translate
+ Translator App This Python-based translator app allows users to convert text from one language to another seamlessly. The app supports multiple languages and provides both the translation and spoken output of the translated text using an integrated speech engine. The intuitive interface allows users to input text, choose their desired target language, and hear the translation spoken aloud, making it an efficient tool for language learning and communication.
